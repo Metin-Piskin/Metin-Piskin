@@ -26,10 +26,10 @@ clean code 💻 📱
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>  
 </div>
 
-
+<!--
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11148264969&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
-
+-->
 <br/>  
 
 <div align="center">
