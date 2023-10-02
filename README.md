@@ -32,6 +32,9 @@ In the past, I started my software development journey by learning C# and SQL, a
 <a href="https://github.com//Metin-Piskin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://play.google.com/store/apps/dev?id=8701239425085313187" target="_blank">
+<img src=https://img.shields.io/badge/googleplay-%23000000.svg?&style=for-the-badge&logo=googleplay&logoColor=white alt=googleplay style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/MtnPskn" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
