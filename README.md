@@ -3,7 +3,8 @@
 
 - 👀I develop React Native Android/iOS apps  
   
-In the past, I started my software development journey by learning C# and SQL, and then transitioned to web development. I gained experience in this area by learning HTML, CSS, and JavaScript. Afterwards, I decided to build my career in mobile programming and started learning React Native. For a long time, I produced projects with React Native, and then React Native transitioned from JavaScript to TypeScript. With this transition, I had the opportunity to learn TypeScript and I continue to produce React Native projects using TypeScript. Based on these experiences, I have established a solid foundation for my future career goals.💻 📱  
+In 2021, I started the software world with curiosity and passion. I started with C# Form and SQL, gained experience by developing projects on GitHub. Then, I learned HTML, CSS and JavaScript to explore my interest in web development. After this basic knowledge, I turned to React Native and stepped into mobile application development. By having experiences such as publishing my applications on the Google Play Store, I started to define my React Native projects to a more professional level and to define myself as a React Native Developer.
+In order to be more effective in the corporate world, I continued to develop my React Native projects by learning TypeScript. By making a short return to the past, I developed small games with Unity using my C# knowledge. In order to overcome my deficiencies on the web side, I improved myself by working on React and producing projects. In this process, I actively worked with various technologies to diversify and strengthen my software skills.💻 📱  
   
 
 <br/>  
